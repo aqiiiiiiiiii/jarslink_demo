@@ -1,0 +1,18 @@
+2019-01-06 22:24:49,587 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-06 22:24:49,587 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-01-06 22:24:49,589 ERROR main                             - Readiness check result: fail
+2019-01-06 22:37:15,353 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-06 22:37:15,353 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-01-06 22:37:15,355 ERROR main                             - Readiness check result: fail
+2019-01-06 22:43:16,577 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-06 22:43:16,581 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-01-06 22:43:16,583 ERROR main                             - Readiness check result: fail
+2019-01-06 23:12:41,901 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-06 23:12:41,901 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-01-06 23:12:41,903 ERROR main                             - Readiness check result: fail
+2019-01-06 23:19:01,453 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-06 23:19:01,453 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-01-06 23:19:01,455 ERROR main                             - Readiness check result: fail
+2019-01-06 23:23:51,333 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-06 23:23:51,333 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-01-06 23:23:51,335 ERROR main                             - Readiness check result: fail

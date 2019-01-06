@@ -1,0 +1,10 @@
+2019-01-07 00:03:02,668 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#414599042":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-07 00:03:02,668 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-01-07 00:03:02,670 ERROR main                             - Readiness check result: fail
+2019-01-07 00:03:03,135 ERROR RMI TCP Connection(2)-127.0.0.1  - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#414599042":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-07 00:03:03,135 ERROR RMI TCP Connection(2)-127.0.0.1  - SOFABoot HealthChecker liveness check result: failed.
+2019-01-07 00:07:34,093 ERROR main                             - HealthChecker[sofaComponentHealthChecker] readiness check fail with 20 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#414599042":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-07 00:07:34,093 ERROR main                             - SOFABoot HealthChecker readiness check result: failed.
+2019-01-07 00:07:34,095 ERROR main                             - Readiness check result: fail
+2019-01-07 00:07:34,405 ERROR RMI TCP Connection(4)-127.0.0.1  - HealthChecker[sofaComponentHealthChecker] liveness check fail with 0 retry; fail details:{"reference:com.oranfish.jarslink_api.service.HelloService:helloService#414599042":"jvm#can not find corresponding jvm service"}; strict mode:true
+2019-01-07 00:07:34,406 ERROR RMI TCP Connection(4)-127.0.0.1  - SOFABoot HealthChecker liveness check result: failed.

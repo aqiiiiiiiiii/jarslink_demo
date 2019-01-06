@@ -1,0 +1,24 @@
+2019-01-06 22:24:26,647 INFO  main                             - SOFABoot Runtime Starting!
+2019-01-06 22:24:27,827 INFO  main                             - Registering component: reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162
+2019-01-06 22:24:27,827 INFO  main                             -  >>In Binding [jvm] Begins - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 22:24:27,830 INFO  main                             -  >>In Binding [jvm] Ends - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 22:36:52,532 INFO  main                             - SOFABoot Runtime Starting!
+2019-01-06 22:36:53,666 INFO  main                             - Registering component: reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162
+2019-01-06 22:36:53,666 INFO  main                             -  >>In Binding [jvm] Begins - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 22:36:53,669 INFO  main                             -  >>In Binding [jvm] Ends - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 22:42:53,721 INFO  main                             - SOFABoot Runtime Starting!
+2019-01-06 22:42:54,882 INFO  main                             - Registering component: reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162
+2019-01-06 22:42:54,883 INFO  main                             -  >>In Binding [jvm] Begins - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 22:42:54,886 INFO  main                             -  >>In Binding [jvm] Ends - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 23:12:19,035 INFO  main                             - SOFABoot Runtime Starting!
+2019-01-06 23:12:20,207 INFO  main                             - Registering component: reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162
+2019-01-06 23:12:20,207 INFO  main                             -  >>In Binding [jvm] Begins - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 23:12:20,210 INFO  main                             -  >>In Binding [jvm] Ends - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 23:18:38,550 INFO  main                             - SOFABoot Runtime Starting!
+2019-01-06 23:18:39,732 INFO  main                             - Registering component: reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162
+2019-01-06 23:18:39,732 INFO  main                             -  >>In Binding [jvm] Begins - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 23:18:39,735 INFO  main                             -  >>In Binding [jvm] Ends - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 23:23:28,454 INFO  main                             - SOFABoot Runtime Starting!
+2019-01-06 23:23:29,622 INFO  main                             - Registering component: reference:com.oranfish.jarslink_api.service.HelloService:helloService#1975118162
+2019-01-06 23:23:29,622 INFO  main                             -  >>In Binding [jvm] Begins - com.oranfish.jarslink_api.service.HelloService:helloService.
+2019-01-06 23:23:29,625 INFO  main                             -  >>In Binding [jvm] Ends - com.oranfish.jarslink_api.service.HelloService:helloService.

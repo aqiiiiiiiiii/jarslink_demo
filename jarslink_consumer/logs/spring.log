@@ -1,0 +1,36 @@
+2019-01-06 22:24:26.656  INFO 9104 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Starting JarslinkConsumerApplicationTests on wangchendeMacBook-Pro.local with PID 9104 (started by wangchen in /Users/wangchen/Documents/home/IdeaProjects/jarslink_demo/jarslink_consumer)
+2019-01-06 22:24:26.658  INFO 9104 --- [main] c.o.j.JarslinkConsumerApplicationTests   : No active profile set, falling back to default profiles: default
+2019-01-06 22:24:28.407  INFO 9104 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-06 22:24:29.430  INFO 9104 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoint(s) beneath base path '/actuator'
+2019-01-06 22:24:49.602  INFO 9104 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Started JarslinkConsumerApplicationTests in 23.473 seconds (JVM running for 24.285)
+2019-01-06 22:24:49.766  INFO 9104 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-06 22:36:52.536  INFO 9177 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Starting JarslinkConsumerApplicationTests on wangchendeMacBook-Pro.local with PID 9177 (started by wangchen in /Users/wangchen/Documents/home/IdeaProjects/jarslink_demo/jarslink_consumer)
+2019-01-06 22:36:52.537  INFO 9177 --- [main] c.o.j.JarslinkConsumerApplicationTests   : No active profile set, falling back to default profiles: default
+2019-01-06 22:36:54.233  INFO 9177 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-06 22:36:55.201  INFO 9177 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoint(s) beneath base path '/actuator'
+2019-01-06 22:37:15.368  INFO 9177 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Started JarslinkConsumerApplicationTests in 23.354 seconds (JVM running for 24.166)
+2019-01-06 22:37:15.541  INFO 9177 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-06 22:42:53.724  INFO 9226 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Starting JarslinkConsumerApplicationTests on wangchendeMacBook-Pro.local with PID 9226 (started by wangchen in /Users/wangchen/Documents/home/IdeaProjects/jarslink_demo/jarslink_consumer)
+2019-01-06 22:42:53.725  INFO 9226 --- [main] c.o.j.JarslinkConsumerApplicationTests   : No active profile set, falling back to default profiles: default
+2019-01-06 22:42:55.455  INFO 9226 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-06 22:42:56.426  INFO 9226 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoint(s) beneath base path '/actuator'
+2019-01-06 22:43:16.596  INFO 9226 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Started JarslinkConsumerApplicationTests in 23.404 seconds (JVM running for 24.187)
+2019-01-06 22:43:16.762  INFO 9226 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-06 23:12:19.039  INFO 9306 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Starting JarslinkConsumerApplicationTests on wangchendeMacBook-Pro.local with PID 9306 (started by wangchen in /Users/wangchen/Documents/home/IdeaProjects/jarslink_demo/jarslink_consumer)
+2019-01-06 23:12:19.040  INFO 9306 --- [main] c.o.j.JarslinkConsumerApplicationTests   : No active profile set, falling back to default profiles: default
+2019-01-06 23:12:20.785  INFO 9306 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-06 23:12:21.748  INFO 9306 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoint(s) beneath base path '/actuator'
+2019-01-06 23:12:41.916  INFO 9306 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Started JarslinkConsumerApplicationTests in 23.454 seconds (JVM running for 24.23)
+2019-01-06 23:12:42.081  INFO 9306 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-06 23:18:38.553  INFO 9358 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Starting JarslinkConsumerApplicationTests on wangchendeMacBook-Pro.local with PID 9358 (started by wangchen in /Users/wangchen/Documents/home/IdeaProjects/jarslink_demo/jarslink_consumer)
+2019-01-06 23:18:38.555  INFO 9358 --- [main] c.o.j.JarslinkConsumerApplicationTests   : No active profile set, falling back to default profiles: default
+2019-01-06 23:18:40.309  INFO 9358 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-06 23:18:41.306  INFO 9358 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoint(s) beneath base path '/actuator'
+2019-01-06 23:19:01.469  INFO 9358 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Started JarslinkConsumerApplicationTests in 23.453 seconds (JVM running for 24.223)
+2019-01-06 23:19:01.650  INFO 9358 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-06 23:23:28.464  INFO 9406 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Starting JarslinkConsumerApplicationTests on wangchendeMacBook-Pro.local with PID 9406 (started by wangchen in /Users/wangchen/Documents/home/IdeaProjects/jarslink_demo/jarslink_consumer)
+2019-01-06 23:23:28.465  INFO 9406 --- [main] c.o.j.JarslinkConsumerApplicationTests   : No active profile set, falling back to default profiles: default
+2019-01-06 23:23:30.207  INFO 9406 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-06 23:23:31.176  INFO 9406 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 4 endpoint(s) beneath base path '/actuator'
+2019-01-06 23:23:51.348  INFO 9406 --- [main] c.o.j.JarslinkConsumerApplicationTests   : Started JarslinkConsumerApplicationTests in 23.414 seconds (JVM running for 24.2)
+2019-01-06 23:23:51.520  INFO 9406 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
