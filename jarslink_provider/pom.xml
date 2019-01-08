@@ -34,11 +34,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-
-        <dependency>
-            <groupId>com.alipay.sofa</groupId>
-            <artifactId>healthcheck-sofa-boot-starter</artifactId>
-        </dependency>
+        
         <dependency>
             <groupId>com.oranfish</groupId>
             <artifactId>jarslink_api</artifactId>

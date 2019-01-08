@@ -35,10 +35,16 @@
             <scope>test</scope>
         </dependency>
 
-        <dependency>
-            <groupId>com.alipay.sofa</groupId>
-            <artifactId>healthcheck-sofa-boot-starter</artifactId>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.alipay.sofa</groupId>-->
+            <!--<artifactId>healthcheck-sofa-boot-starter</artifactId>-->
+            <!--<exclusions>-->
+                <!--<exclusion>-->
+                    <!--<groupId>org.springframework.boot</groupId>-->
+                    <!--<artifactId>spring-boot-starter-web</artifactId>-->
+                <!--</exclusion>-->
+            <!--</exclusions>-->
+        <!--</dependency>-->
         <dependency>
             <groupId>com.oranfish</groupId>
             <artifactId>jarslink_api</artifactId>
