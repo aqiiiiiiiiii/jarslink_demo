@@ -4,7 +4,7 @@ telnet localhost 1234
 
 check -b
 
-install -b file:///Users/wangchen/Documents/jarslink_demo/plugins/1_jarslink_provider-0.0.1-SNAPSHOT-ark-biz.jar
+install -b file:///Users/hakintosh/Documents/jarslink_demo/plugins/1_jarslink_provider-0.0.1-SNAPSHOT-ark-biz.jar
 
 uninstall -b -n jarslink_provider -v 0.0.1-SNAPSHOT
 
